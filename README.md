@@ -5,3 +5,7 @@ This project is part of the Machine Learning class I took in the spring semester
 
 ## Simple RNN Architecture
 ![alt tag](https://github.com/anmolkhanna93/Neural-Machine-Translator/blob/master/Design/rnn.png)
+
+## Bidirectional RNN Architecture
+![alt tag](https://github.com/anmolkhanna93/Neural-Machine-Translator/blob/master/Design/bidirectional.png)
+
